@@ -859,3 +859,4 @@ Add syntax highlighting for Haskell.
 ```lua
         "haskell",
 ```
+# NVconfig
